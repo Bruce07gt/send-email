@@ -40,6 +40,6 @@ Passo 3:
 <br>
 
 Depois de feito essas configurações agora é só rodar a aplicação.<br>
-After doing all steps, now play de application.
+After doing all steps, now play the application.
 
 
